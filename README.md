@@ -35,6 +35,3 @@ Schott, J. R. (2006): A high-dimensional test for the equality of the smallest e
 Journal of Multivariate Analysis 97, 827–843.
 
 Luo, W. and Li, B. (2021): On order determination by predictor augmentation. Biometrika, 108(3), pp.557-574.
-
-Loperfido, N. (2015): Vector-valued skewness for model-based clustering. Statistics & Probability Letters, 99, 230-237.
-Virta, J., Nordhausen, K. and Oja, H. (2015): Joint use of third and fourth cumulants in independent component analysis, arXiv:1505.02613.
