@@ -31,7 +31,9 @@ GNU GPLv3
 
 References
 
+Luo, W. and Li, B. (2021): On order determination by predictor augmentation. Biometrika, 108(3), pp.557-574.
+
+Radojicic, U. and Virta J. (2025): Dimension estimation in PCA model using high-dimensional data augmentation. arXiv preprint arXiv:2502.04220.  
+
 Schott, J. R. (2006): A high-dimensional test for the equality of the smallest eigenvalues of a covariance matrix. 
 Journal of Multivariate Analysis 97, 827–843.
-
-Luo, W. and Li, B. (2021): On order determination by predictor augmentation. Biometrika, 108(3), pp.557-574.
