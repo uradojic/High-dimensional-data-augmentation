@@ -1,5 +1,5 @@
 # High-dimensional-data-augmentation
-This project contains supporting R scripts for reproducing results in ADD REF to ARXIV
+This project contains supporting R scripts for reproducing results in Radojicic, U. and Virta J. (2025).
 
 The goal of the project is to develop a high-dimensional version of a recent dimension estimation procedure proposed in  
 Luo, W. and Li, B. (2021) that determines the dimension via the introduction of augmented noise variables into the data.
@@ -10,7 +10,7 @@ The main functions in the source file are:
 
   - f_lambda: eigenvalue debiasing function.
 
-  - our_estimator: HDPA estimator (ADD ref to ARXIV file).
+  - our_estimator: HDPA estimator proposed in Radojicic, U. and Virta J. (2025).
 
   - PCAschott_own: high-dimensional subsphericity test by Schott, J. R. (2006). 
 
